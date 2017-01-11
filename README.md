@@ -4,7 +4,7 @@ Python Spider for PM2.5 data in China.
 The .db file is for the database sqlite, please use [DB Browser](http://sqlitebrowser.org/) to open it.
 
 # Install
-Just run the following command, the program has just been tested in python 3.5.
+Just run the following command, the program has just been tested in python 3.5. python 2.7 will have the problem about ascii.
 
 >python spider.py
 
